@@ -15,7 +15,7 @@ const Navbar = () => {
 
   return (
     // nav
-    <nav className="relative bg-cover bg-center shadow-xl overflow-hidden bg-orange-950">
+    <nav className="relative bg-cover bg-center shadow-xl overflow-hidden bg-[#4B352A]">
       {/* coffee theme bg  */}
       {/* <div className="absolute inset-0 bg-gradient-to-r from-[#483621] to-[#6F4E37] opacity-95 border-4 border-dashed border-amber-500 rounded-xl " /> */}
 
